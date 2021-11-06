@@ -1,0 +1,68 @@
+Uri: https://popcat.click/
+File Name: C:\Users\user\Downloads\popcat\popcat.click\index.htm
+Content Type: text/html
+
+Uri: https://popcat.click/icons/apple-touch-icon.png
+File Name: C:\Users\user\Downloads\popcat\popcat.click\icons\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://popcat.click/icons/favicon-32x32.png
+File Name: C:\Users\user\Downloads\popcat\popcat.click\icons\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://popcat.click/icons/favicon-16x16.png
+File Name: C:\Users\user\Downloads\popcat\popcat.click\icons\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://popcat.click/icons/site.webmanifest
+File Name: C:\Users\user\Downloads\popcat\popcat.click\icons\site.webmanifest
+Content Type: application/octet-stream
+
+Uri: https://popcat.click/icons/safari-pinned-tab.svg
+File Name: C:\Users\user\Downloads\popcat\popcat.click\icons\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://popcat.click/icons/favicon.ico
+File Name: C:\Users\user\Downloads\popcat\popcat.click\icons\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;900&display=swap
+File Name: C:\Users\user\Downloads\popcat\popcat.click\css2.css
+Content Type: text/css
+
+Uri: https://popcat.click/css/app.eeda4df3.css
+File Name: C:\Users\user\Downloads\popcat\popcat.click\css\app.eeda4df3.css
+Content Type: text/css
+
+Uri: https://popcat.click/css/chunk-vendors.ee957b8a.css
+File Name: C:\Users\user\Downloads\popcat\popcat.click\css\chunk-vendors.ee957b8a.css
+Content Type: text/css
+
+Uri: https://popcat.click/js/app.e9a4bf97.js
+File Name: C:\Users\user\Downloads\popcat\popcat.click\js\app.e9a4bf97.js
+Content Type: application/javascript
+
+Uri: https://popcat.click/js/chunk-vendors.5b35641b.js
+File Name: C:\Users\user\Downloads\popcat\popcat.click\js\chunk-vendors.5b35641b.js
+Content Type: application/javascript
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js
+File Name: C:\Users\user\Downloads\popcat\popcat.click\beacon.min.js
+Content Type: text/javascript
+
+Uri: https://popcat.click/img/p.1e9d00be.png
+File Name: C:\Users\user\Downloads\popcat\popcat.click\img\p.1e9d00be.png
+Content Type: image/png
+
+Uri: https://popcat.click/img/op.353767c3.png
+File Name: C:\Users\user\Downloads\popcat\popcat.click\img\op.353767c3.png
+Content Type: image/png
+
+Uri: https://popcat.click/img/p-bot.73f9dfe5.png
+File Name: C:\Users\user\Downloads\popcat\popcat.click\img\p-bot.73f9dfe5.png
+Content Type: image/png
+
+Uri: https://popcat.click/img/op-bot.ddf6a2f4.png
+File Name: C:\Users\user\Downloads\popcat\popcat.click\img\op-bot.ddf6a2f4.png
+Content Type: image/png
+
